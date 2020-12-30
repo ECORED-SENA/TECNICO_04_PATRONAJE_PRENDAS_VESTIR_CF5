@@ -16,130 +16,240 @@
   { 
     "id": 1,
     "icon": "fa fa-file-text-o",
-    "slug": "motor_induccion",
-    "title": "1. Principio de funcionamiento de un motor de inducción",
+    "slug": "interpretacion_de_modelos",
+    "title": "11. Patronaje Interpretación de Modelos.",
     "breadcrumb": ["Inicio","Tema 1"],
     "path": "pages/1-tema.html",    
     "submenu": [
       {
         "icon": "fa fa-file-text-o",
-        "slug": "motor_induccion",
-        "title": "1.1 Características del devanado del motor - campo magnético y movimiento mecánico",
-        "anchor": "11"
+        "slug": "interpretacion_de_modelos",
+        "title": "11.1 Manga sastre",
+        "anchor": "11_1"
       },
       {
         "icon": "fa fa-file-text-o",
-        "slug": "motor_induccion",
-        "title": "1.2 Motores Jaula de ardilla",
-        "anchor": "12"
+        "slug": "interpretacion_de_modelos",
+        "title": "11.2 Trazo de chaqueta tres botones",
+        "anchor": "11_2"
       },
       {
         "icon": "fa fa-file-text-o",
-        "slug": "motor_induccion",
-        "title": "1.3 Generalidades",
-        "anchor": "13"
+        "slug": "interpretacion_de_modelos",
+        "title": "11.3 Interpretación de chaqueta bomber",
+        "anchor": "11_3"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "interpretacion_de_modelos",
+        "title": "11.4 Chaqueta sastre femenina",
+        "anchor": "11_4"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "interpretacion_de_modelos",
+        "title": "11.5 Chaqueta cuello alto (traslados de pinza) ",
+        "anchor": "11_5"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "interpretacion_de_modelos",
+        "title": "11.6 Abrigo asimétrico",
+        "anchor": "11_6"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "interpretacion_de_modelos",
+        "title": "11.7 Generalidades de pantalón sastre masculino - interpretación",
+        "anchor": "11_7"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "interpretacion_de_modelos",
+        "title": "11.8 Interpretación de pantalón sastre femenino ",
+        "anchor": "11_8"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "interpretacion_de_modelos",
+        "title": "11.9 Generalidades de manga kimona y ranglan ",
+        "anchor": "11_9"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "interpretacion_de_modelos",
+        "title": "11.10 Análisis e interpretación de capas ",
+        "anchor": "11_10"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "interpretacion_de_modelos",
+        "title": "11.11 Análisis e interpretación de pantalón sudadera",
+        "anchor": "11_11"
       }
     ]
   },
   { 
     "id": 1,
     "icon": "fa fa-file-text-o",
-    "slug": "motor_imanes",
-    "title": "2. Principio de funcionamiento de un motor de imanes permanentes",
+    "slug": "linea_interior",
+    "title": "12. Patronaje línea Interior y Deportiva (Software de patronaje)",
     "breadcrumb": ["Inicio","Tema 2"],
     "path": "pages/2-tema.html",    
     "submenu": [
       {
         "icon": "fa fa-file-text-o",
-        "slug": "motor_imanes",
-        "title": "2.1 CaracterÍsticas y tipos de los rotores",
-        "anchor": "21"
+        "slug": "linea_interior",
+        "title": "12.1 Trazo de panty básico ",
+        "anchor": "12_1"
       },
       {
         "icon": "fa fa-file-text-o",
-        "slug": "motor_imanes",
-        "title": "2.2 Partes eléctricas y componentes",
-        "anchor": "22"
+        "slug": "linea_interior",
+        "title": "12.2 Trazo de panty culotte ",
+        "anchor": "12_2"
       },
       {
         "icon": "fa fa-file-text-o",
-        "slug": "motor_imanes",
-        "title": "2.3 Generalidades",
-        "anchor": "23"
+        "slug": "linea_interior",
+        "title": "12.3 Hipster con encaje ",
+        "anchor": "12_3"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "linea_interior",
+        "title": "12.4 Boxer encaje ",
+        "anchor": "12_4"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "linea_interior",
+        "title": "12.5 Panty faja - cintura alta ",
+        "anchor": "12_5"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "linea_interior",
+        "title": "12.6 Tanga descaderada ",
+        "anchor": "12_6"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "linea_interior",
+        "title": "12.7 Interpretación de tanga encaje ",
+        "anchor": "12_7"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "linea_interior",
+        "title": "12.8 Brasier balconet con cotilla ",
+        "anchor": "12_8"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "linea_interior",
+        "title": "12.9 Brallette",
+        "anchor": "12_9"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "linea_interior",
+        "title": "12.10 Interfaz audaces ",
+        "anchor": "12_10"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "linea_interior",
+        "title": "12.11 Panty clásico ",
+        "anchor": "12_11"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "linea_interior",
+        "title": "12.12 Interpretación de pantys",
+        "anchor": "12_12"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "linea_interior",
+        "title": "12.13 Interpretación hipsters ",
+        "anchor": "12_13"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "linea_interior",
+        "title": "12.14 Boxer masculino ",
+        "anchor": "12_14"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "linea_interior",
+        "title": "12.15 Pantaloncillo masculino ",
+        "anchor": "12_15"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "linea_interior",
+        "title": "12.16 Base superior de ropa interior ",
+        "anchor": "12_16"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "linea_interior",
+        "title": "12.17 Brasier altura de copa ",
+        "anchor": "12_17"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "linea_interior",
+        "title": "12.18 Copa corte vertical y horizontal ",
+        "anchor": "12_18"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "linea_interior",
+        "title": "12.19 Escalado brasier corte horizontal",
+        "anchor": "12_19"
       }
     ]
   }, 
   { 
     "id": 1,
     "icon": "fa fa-file-text-o",
-    "slug": "iman_permanente",
-    "title": "3. Diferencia entre motor inducción (AM) - iman permanente (PMM)",
+    "slug": "operaciones",
+    "title": "13. Operaciones de preparación para elaboración de muestra - Tejido Plano",
     "breadcrumb": ["Inicio","Tema 3"],
     "path": "pages/3-tema.html",    
     "submenu": [
       {
         "icon": "fa fa-file-text-o",
-        "slug": "iman_permanente",
-        "title": "3.1 Características del conjunto rotórico",
-        "anchor": "31"
+        "slug": "operaciones",
+        "title": "13.1 Ruta u orden operacional para camisa ",
+        "anchor": "13_1"
       },
       {
         "icon": "fa fa-file-text-o",
-        "slug": "iman_permanente",
-        "title": "3.2 Cantidad de polos en motores AM y PMM. Velocidades en fondo",
-        "anchor": "32"
+        "slug": "operaciones",
+        "title": "13.2 Ensamble de blusa femenina ",
+        "anchor": "13_2"
       },
       {
         "icon": "fa fa-file-text-o",
-        "slug": "iman_permanente",
-        "title": "3.3 Ventajas y desventajas de los motores AM - PMM",
-        "anchor": "33"
-      }
-    ]
-  }, 
-  { 
-    "id": 1,
-    "icon": "fa fa-file-text-o",
-    "slug": "variador",
-    "title": "4. Variador de velocidad (VSD) - Controles para motor PMM",
-    "breadcrumb": ["Inicio","Tema 4"],
-    "path": "pages/4-tema.html",    
-    "submenu": [
-      {
-        "icon": "fa fa-file-text-o",
-        "slug": "variador",
-        "title": "4.1 Switchboard y variadores de velocidad como parte de un sistema ESP",
-        "anchor": "41"
+        "slug": "operaciones",
+        "title": "13.3 Ensamble de falda",
+        "anchor": "13_3"
       },
       {
         "icon": "fa fa-file-text-o",
-        "slug": "variador",
-        "title": "4.2 Diseño de un variador de velocidad VSD (generalidades)",
-        "anchor": "42"
+        "slug": "operaciones",
+        "title": "13.4 Ensamble de pantalón masculino",
+        "anchor": "13_4"
       },
       {
         "icon": "fa fa-file-text-o",
-        "slug": "variador",
-        "title": "4.3 Configuración del controlador para motores AM - PMM",
-        "anchor": "43"
-      },
-      {
-        "icon": "fa fa-file-text-o",
-        "slug": "variador",
-        "title": "4.4 VDS como protección del equipo de fondo",
-        "anchor": "44"
-      },
-      {
-        "icon": "fa fa-file-text-o",
-        "slug": "variador",
-        "title": "4.5 Configuraciones tecnológicas de operación del VSD con motores AM y PM",
-        "anchor": "45"
-      },
-      {
-        "icon": "fa fa-file-text-o",
-        "slug": "variador",
-        "title": "4.6 Actualización de controladores de VSD para manejo de motores PMM",
-        "anchor": "46"
+        "slug": "operaciones",
+        "title": "13.5 Ensamble de pantalón femenino",
+        "anchor": "13_5"
       }
     ]
   }
