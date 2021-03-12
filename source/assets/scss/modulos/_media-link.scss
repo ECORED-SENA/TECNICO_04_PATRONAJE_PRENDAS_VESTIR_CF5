@@ -8,7 +8,7 @@
     justify-content: start;
     align-items: center;
     padding: 1rem;
-    background: #41B1DC;  
+    background: #BBDEFB;  
     border-radius: 7px;  
     transition: background-color 0.25s ease-out;
 
@@ -21,7 +21,7 @@
 
     &-title {
         p {
-            color: white;
+            color: $primary;
             margin: 0 !important;
         }      
     }   

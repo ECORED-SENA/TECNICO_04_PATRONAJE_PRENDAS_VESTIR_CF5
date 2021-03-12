@@ -36,29 +36,28 @@ html(lang="es")
                             .card-body
 
                                 ul.list-group.list-group-flush.list.my-n3.nav-temas
-                                    +navTemaItem('text', 'Introducción', '#intro')                                   
-                                    +navTemaItem('1', 'Patronaje Interpretación de Modelos', '#tema-1')
-                                    +navTemaItem('2', 'Patronaje línea Interior y Deportiva (Software de patronaje)', '#tema-2')
-                                    +navTemaItem('3', 'Operaciones de preparación para elaboración de muestra - Tejido Plano', '#tema-3')
+                                    +navTemaItem('text', 'Introducción', 'main.html#page/#tema-1/')
+                                    +navTemaItem('1', 'Patronaje interpretación de modelos', 'main.html#page/#tema-2/')
+                                    +navTemaItem('2', 'Patronaje línea interior y deportiva (Software de patronaje)', 'main.html#page/#tema-3/')
+                                    +navTemaItem('3', 'Operaciones de preparación para elaboración de muestra - Tejido plano', 'main.html#page/#tema-4/')
                                     +navTemaItem('glosary', 'Glosario', '#glosario')
-                                    +navTemaItem('folder', 'Material complementario', '#anexos')   
                                     +navTemaItem('folder', 'Material complementario', '#anexos')
                                     +navTemaItem('references', 'Referencias bibliográficas', '#referencias')
 
 
-        section#mainContent
-            #intro
-                include pages/intro.pug
+        section#mainContent         
             #tema-1
                 include pages/1-tema.pug
             #tema-2
-                include pages/2-tema.pug                 
+                include pages/2-tema.pug
             #tema-3
-                include pages/3-tema.pug                                          
+                include pages/3-tema.pug
+            #tema-4
+                include pages/4-tema.pug
             #glosario
                 include pages/glosario.pug
             #anexos
-                include pages/material-complementario.pug                       
+                include pages/material-complementario.pug
             #referencias
                 include pages/referencias.pug
 

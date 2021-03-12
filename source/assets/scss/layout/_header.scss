@@ -1,6 +1,5 @@
 .page-header {
-    background: #0D5EA9;
-
+    background: #0D47A1;
     position: relative;
     .barra-dots {
         width: 240px;
@@ -14,7 +13,7 @@
         content: '';
         border-style: solid;
         border-width:50px 50px 0px 50px;
-        border-color: #0D5EA9 transparent transparent transparent;
+        border-color: $brand-color-dark transparent transparent transparent;
         position: absolute;
         left: 50%;
         transform: translateX(-50%);
@@ -46,6 +45,7 @@
 
 .curso-imagen {
     max-height: 350px;
+    width: 100%;
 }
 
 .theme-dark {
@@ -81,6 +81,7 @@
 
     margin: 3rem 0;
     position: relative;
+    color: #361274;
 
     h1 {
         font-size: 1.1*$h1-font-size;
@@ -109,7 +110,7 @@
         bottom: -12px;
         width: 50px;
         height: 4px;
-        background-color: orange;
+        background-color: #FFD54F;
     }  
     &.-recuadro {
         color: $brand-color-light;

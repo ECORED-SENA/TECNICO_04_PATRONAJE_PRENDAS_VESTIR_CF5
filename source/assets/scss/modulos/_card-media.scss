@@ -1,23 +1,24 @@
 .card-media {
   position: relative;
-  padding: 3rem 3rem 3rem 5rem;
+  padding: 2rem 2rem 2rem 3rem;
   margin: 1rem 0;
   -webkit-border-radius: 12px;
   -moz-border-radius: 12px;
   border-radius: 12px;
-  background-color: #a3a4bf1f; 
-  border: 1px solid #8FEFCB;
+  background-color: white; 
+  border: 1px solid #6595BF;
   &__body {     
     .card__figure {
+      background: white;
+      border-radius:10px;
       margin: 0;
-      position: absolute;      
+      position: absolute;
       top: 50%;
       left: 0;
       transform: translate(-50%,-50%);
       max-width: 120px;      
       img {
         width: 100%;
-        border-radius:10px;
       }
     }     
     .card__copy{
